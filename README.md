@@ -34,3 +34,4 @@ python satelliteMotionDetection.py /path/to/fits/files
 ```
 
 ## Example
+  ![Example Image](Example.png)
